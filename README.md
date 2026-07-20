@@ -82,10 +82,6 @@ sharedassets4.assets.resS
 
 Верни оригинальные файлы из `original/` в папку игры.
 
----
-## Соцсети автора мода/ Mod Author Socials
-- **Discord:** steeepa
-- **Steam:** https://steamcommunity.com/profiles/76561199388474752/
 
 ## Соцсети автора игры / Game Author Socials
 -  KotaMota Games
