@@ -21,10 +21,8 @@ The mod is available on the Discord server - https://discord.gg/6sbxFHyPq
 
 ## Скачать / Download
 
-скачай репозиторий:
-```bash
-https://github.com/steepa/XenoFeels-NSFW-Demo-Mod/blob/main/mods%202.zip
-```
+скачай репозиторий в дискорде:
+
 
 ---
 
