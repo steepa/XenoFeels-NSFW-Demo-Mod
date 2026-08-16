@@ -1,10 +1,8 @@
 # Custom Intro Screens v2 — XenoFeels Demo NSFW Mod
 
-> **18+ NSFW Mod** — демо без цензуры / demo uncensored
-
 Кастомные заставки для XenoFeels Demo. 
-
 Custom intro screens for XenoFeels Demo. 
+<img width="1576" height="962" alt="3-1784404482-1653486786 png" src="https://github.com/user-attachments/assets/5626e0da-dbca-492a-94c5-367ae0533670" />
 
 ⚠️ Автор оригинальных базовых артов мода: Kota Mota Games, я лишь выполнил их дорисовку и адаптацию. Графика не является моей собственной разработкой.
 
