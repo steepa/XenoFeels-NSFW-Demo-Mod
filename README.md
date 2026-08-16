@@ -8,18 +8,13 @@ Custom intro screens for XenoFeels Demo.
 
 ⚠️ Original core art by Kota Mota Games. I only edited and retouched the artwork; base visuals are not original to me.
 ---
-The mod is available on the Discord server - https://discord.gg/6sbxFHyPq
-мод находиться на сервере в дискорде - https://discord.gg/6sbxFHyPq
----
-
-**Author game:** KotaMota Games  
-**Версия:** 0.0.1 (Demo)
-
+The mod is available on the Discord server - https://discord.gg/BC3YEar8z
+мод находиться на сервере в дискорде - https://discord.gg/BC3YEar8z
 ---
 
 ## Скачать / Download
 
-Download the repository from Discord:
+Download the repository from Discord: https://discord.gg/BC3YEar8z
 
 ---
 
