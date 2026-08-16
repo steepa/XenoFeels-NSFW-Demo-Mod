@@ -19,8 +19,7 @@ The mod is available on the Discord server - https://discord.gg/6sbxFHyPq
 
 ## Скачать / Download
 
-скачай репозиторий в дискорде:
-
+Download the repository from Discord:
 
 ---
 
